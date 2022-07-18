@@ -14,13 +14,13 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 ## 📷 Screenshots
 
 <kbd>
-  <img src="../src/assets/screenshot1.jpg" alt="App Home" width="600" />
+  <img src="/src/assets/screenshot1.jpg" alt="App Home" width="600" />
 </kbd>
 
 &nbsp;&nbsp;
 
 <kbd>
-  <img src="../src/assets/screenshot2.jpg" alt="App Cart" width="600" />
+  <img src="/src/assets/screenshot2.jpg" alt="App Cart" width="600" />
 </kbd>
 
 [course]: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
